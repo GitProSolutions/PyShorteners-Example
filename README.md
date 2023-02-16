@@ -19,22 +19,28 @@ This project demonstrates how to install and use PyShorteners to shorten URLs us
 
 1. Install PyShorteners using pip.
 
+```python
 pip install pyshorteners
+```
 
 
 2. Clone this repository.
 
+```python
 git clone 
-
+```
 
 3. Navigate to the project directory.
 
+```python
 cd pyshorteners-example
-
+```
 
 4. Run the Python script.
 
+```python
 python shortener.py
+```
 
 
 
@@ -42,12 +48,14 @@ python shortener.py
 
 1. When you run the `shortener.py` script, you will be prompted to enter the URL you want to shorten.
 
+
 Enter the URL to shorten:
 
 
 2. Enter the URL you want to shorten and press Enter.
 
 3. The script will use the TinyURL service to shorten the URL and display the result.
+
 
 The Shortened URL is: https://tinyurl.com/abcd123
 
