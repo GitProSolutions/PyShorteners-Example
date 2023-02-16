@@ -27,7 +27,7 @@ pip install pyshorteners
 2. Clone this repository.
 
 ```python
-git clone 
+git clone https://github.com/GitProSolutions/PyShorteners-Example.git
 ```
 
 3. Navigate to the project directory.
