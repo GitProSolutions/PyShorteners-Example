@@ -73,7 +73,7 @@ PyShorteners was created by GitProSolutions.
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Badges
-Include any relevant badges here, such as build status, code coverage, etc.
+![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
 
 
 
